@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quos repudiandae in. Enim quia corrupti vitae eligendi. Voluptatum odio sunt, est, blanditiis repellat ea possimus perferendis culpa perspiciatis, in et?",
+      "author": "Abdullah",
+      "id": "1"
+    },
+    {
+      "title": "My Second Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quos repudiandae in. Enim quia corrupti vitae eligendi. Voluptatum odio sunt, est, blanditiis repellat ea possimus perferendis culpa perspiciatis, in et?",
+      "author": "Abdullah",
+      "id": "2"
+    },
+    {
+      "title": "My Last Blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quos repudiandae in. Enim quia corrupti vitae eligendi. Voluptatum odio sunt, est, blanditiis repellat ea possimus perferendis culpa perspiciatis, in et?",
+      "author": "Abdullah",
+      "id": "3"
+    },
+    {
+      "id": "9af8",
+      "title": "Another Blog",
+      "body": "Scientists' research has revealed that viruses are by far the most abundant life forms on Earth. There are a million times more viruses on the planet than stars in the universe. Viruses also harbor the majority of genetic diversity on Earth. Scientists are finding evidence of viruses as a planetary force, influencing the global climate and geochemical cycles. They have also profoundly shaped the evolution of their hosts. The human genome, for example, contains 100,000 segments of virus DNA.",
+      "author": "Abdullah"
+    }
+  ]
+}
